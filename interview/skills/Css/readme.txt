@@ -1,0 +1,1 @@
+This folder represent the CSS(Cascating Style Sheet) depended roadmap and properties details
