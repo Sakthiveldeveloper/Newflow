@@ -1,0 +1,1 @@
+This skills folder represent the skills for interview Desination (what skills listed in the concept-of-flow-interview.txt)

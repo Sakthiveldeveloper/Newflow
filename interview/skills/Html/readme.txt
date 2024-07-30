@@ -1,0 +1,1 @@
+This folder represent the HTML(Hyper Text Markup languages) depended roadmap and properties details

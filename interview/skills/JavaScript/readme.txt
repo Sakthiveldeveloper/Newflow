@@ -1,0 +1,1 @@
+This folder represent the javaScript depended roadmap and details and all assignments
